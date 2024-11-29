@@ -1,0 +1,3 @@
+# The Files that are not to be pushed on remote repository
+secrets.txt
+.DS_Store
